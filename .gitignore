@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+results/*.pth
+results/*.csv
+results/*.jsonl
+.venv/
+venv/
+dataset/cifar100/cifar-100-python/
+dataset/cifar100/*.tar.gz
+*.tar.gz
